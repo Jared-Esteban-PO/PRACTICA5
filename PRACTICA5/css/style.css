@@ -1,0 +1,40 @@
+body{
+    background-color: #8eeee9;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+td{
+    vertical-align: text-top;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+ text-decoration: none;
+ color: #000000;
+}
+
+div{
+    color: #e9e5e5;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #000000;
+    background-color: #083a49;
+    border-radius: 15px;
+    border: solid 2px #999999 ;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #c0c2c3;
+}
+
+h3 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
